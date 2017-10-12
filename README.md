@@ -15,7 +15,7 @@ This is a web based graph drawer. Graph is drawn by a given JSON element. **d3**
 
 You need to have 
 
-- [d3](https://d3js.org/)
+- [d3.js](https://d3js.org/)
 
 ## Authors
 
