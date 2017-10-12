@@ -1,8 +1,8 @@
 # Web Based Graph Drawer
 
 This is a web based graph drawer. Graph is drawn by a given JSON element. **d3** library is used (it makes make panning and zooming much easier). The graph is assumed to be a [cfg](https://en.wikipedia.org/wiki/Control_flow_graph). Our aim is to draw the graph such that:
-- It has minimun number of back edges.
-- It has minumum number of edge intersections.
+- It has minimum  number of back edges.
+- It has minimum  number of edge intersections.
 
 ## Getting Started
 
